@@ -19,5 +19,8 @@ INSERT INTO students VALUES
 (2, "Taha",31),
 (3, "Sheema",32);
 SELECT * 
-FROM students;
+FROM students
+;
+
+
 
