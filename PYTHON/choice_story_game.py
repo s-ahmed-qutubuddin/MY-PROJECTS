@@ -1,7 +1,7 @@
 print("SCIENCE FICTION")
 name=input("Enter Reader Name")
 print(name,"happened to come across a Science lab where you were given a task")
-print("You are given 3 elements,1  2 Hydrogen molecules ,1 Oxygen molecule and  1 Carbon molecule")
+print("You are given 3 elements,1: 2 Hydrogen molecules ,            Oxygen molecule and  1 Carbon molecule")
 print(name,"Make a byproduct out of these elements")
 print("1 for hydrogen")
 print("2 for oxygen")
