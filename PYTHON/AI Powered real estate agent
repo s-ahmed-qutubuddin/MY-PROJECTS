@@ -1,0 +1,14 @@
+print("AI POWERED REAL ESTATE PROJECT")
+while True:
+    location=input("ENTER YOUR PREFERRED LOCATION: ")
+    budget= int(input("ENTER YOUR BUDGET: "))
+    roi=int(input("ROI/NET PROFIT: "))
+    luxuryrange=input("ENTER YOUR RANGE,MID/HIGH: ")
+    preference=input("ENTER YOUR PREFERENCE: ")
+    if budget>=50000 and luxuryrange== "HIGH":
+        print("RECOMMENDED: DUBAI")
+    elif budget>=3000 and roi== "high":
+        print("RECOMMENDED: JVC")
+    else:
+        print("RECOMMENDED: PARADISE")
+
