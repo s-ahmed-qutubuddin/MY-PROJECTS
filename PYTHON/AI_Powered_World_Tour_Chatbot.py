@@ -1,5 +1,5 @@
-print("AI Powered World Tour Chat-Bot")
-print("Please Provide The Details Below so I could give you the best destination")
+print("" \
+"gitetails Below so I could give you the best destination")
 budget = input("What is Your Budget? (low/medium/high): ").lower()
 continent = input("Which continent would you prefer? (oceania/europe/asia/south america/north america): ").lower()
 season = input("Select the season? (summer/winter/autumn/spring): ").lower()
